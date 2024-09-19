@@ -1,0 +1,2 @@
+# Skripsi
+Pengerjaan Skripsi STMKG
