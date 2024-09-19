@@ -8,4 +8,4 @@ NPT: 41210084 <br>
 Pembimbing: Adi Widyatmoko, M.T <br>
 Judul: - - - <br>
 
-Purpose of this rep is to track progress of my code and to remind myself of what it means to be a scholar.
+Purpose of this rep is to track progress of my code and help those who's gonna need in in the near or far future, especially my future junior at STMKG. I hope this little writing of mine could help y'all writing your own thesis.
